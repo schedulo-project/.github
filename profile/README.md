@@ -113,7 +113,7 @@
 | 권동균 (팀장) | 윤세빈 | 장지연 | 정우현 | 백승우 | 주현지 |
 | --- | --- | --- | --- | --- | --- |
 | <a href="https://github.com/Kwondongkyun"><img src="https://github.com/user-attachments/assets/5573c1e9-d381-4ff5-b61d-111d886dd034" width="100px;" alt=""/><br /><sub><b>Kwon</b></sub></a> | <a href="https://github.com/SEBINorSEBOUT"><img src="https://avatars.githubusercontent.com/u/101514162?v=4" width="100px;" alt=""/><br /><sub><b>yOOn seb</b></sub></a> | <a href="https://github.com/JANGJEEYEON"><img src="https://avatars.githubusercontent.com/u/106160603?s=96&v=4" width="100px;" alt=""/><br /><sub><b>JANGJEEYEON</b></sub></a> | <a href="https://github.com/UHyeonj"><img src="https://avatars.githubusercontent.com/u/128715793?v=4" width="100px;" alt=""/><br /><sub><b>UHyeonj</b></sub></a> | <a href="https://github.com/s2vngwxx"><img src="https://avatars.githubusercontent.com/u/129683560?v=4" width="100px;" alt=""/><br /><sub><b>s2vngwxx</b></sub></a> | <a href="https://github.com/zoohj"><img src="https://avatars.githubusercontent.com/u/128765995?v=4" width="100px;" alt=""/><br /><sub><b>주현지</b></sub></a> |
-| PM/FE | DE | FE | FE | BE | BE |
+| PM/FE | Design | FE | FE | BE | BE |
 
 ## 📽️ 시연 영상
 https://youtu.be/_NxCuFZ9Vk0
