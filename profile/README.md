@@ -1,7 +1,6 @@
 ![이미지 2025  9  28  오후 7 37](https://github.com/user-attachments/assets/0bc50b09-e9c5-4b18-9d80-ed728cf8821e)
 > 대학생 학습 및 일정 관리 서비스, Schedulo (🔗 https://www.schedulo.co.kr/)<br>
-> Schedulo Desktop Version Download<br>
-> [Schedulo Desktop (Win)](https://drive.google.com/file/d/14__9-yU64WnyxsyEVRLnJzpo9RlXOfkZ/view?usp=drive_link)<br>
+> [Schedulo Desktop Version Download (Win)](https://drive.google.com/file/d/14__9-yU64WnyxsyEVRLnJzpo9RlXOfkZ/view?usp=drive_link)<br>
 > Windows의 PC 보호 → 추가 정보 → 실행<br>
 ## 📌 프로젝트 개요
 
