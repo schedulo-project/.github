@@ -1,7 +1,11 @@
 ![이미지 2025  9  28  오후 7 37](https://github.com/user-attachments/assets/0bc50b09-e9c5-4b18-9d80-ed728cf8821e)
 > 대학생 학습 및 일정 관리 서비스, Schedulo (🔗 https://www.schedulo.co.kr/)<br>
-> [Schedulo Desktop Version Download (Win)](https://drive.google.com/file/d/14__9-yU64WnyxsyEVRLnJzpo9RlXOfkZ/view?usp=drive_link)<br>
-> Windows의 PC 보호 → 추가 정보 → 실행<br>
+> [Schedulo Desktop Version Download (Win)](https://drive.google.com/file/d/1hJa5XNNHKJsrO_hjb78MLlXnEnocjksj/view?usp=sharing)<br>
+> Smart Screen → 추가 정보 → 실행<br>
+> [Schedulo Desktop Version Download (<Mac)](https://drive.google.com/file/d/1lBfHqaiGk3AAALeTpfHLDuvwpp9DvKaM/view?usp=sharing)<br>
+> sudo xattr -r -d com.apple.quarantine /Applications/Schedulo.app<br>
+> sudo spctl --master-disable<br>
+
 ## 📌 프로젝트 개요
 
 대학생들은 학습 과정에서 일정 관리의 어려움으로 인해 벼락치기, 복습 부재, 학습 불균형과 같은 문제를 겪습니다. 저희 팀은 이러한 문제를 인식하고 학생 일정 관리의 새로운 혁신을 추구하며 프로젝트를 시작했습니다.
