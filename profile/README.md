@@ -1,7 +1,7 @@
 ![이미지 2025  9  28  오후 7 37](https://github.com/user-attachments/assets/0bc50b09-e9c5-4b18-9d80-ed728cf8821e)
 > 대학생 학습 및 일정 관리 서비스, Schedulo (🔗 https://www.schedulo.co.kr/)<br>
-> [Schedulo Desktop Version Download (Windows)](https://drive.google.com/file/d/1hJa5XNNHKJsrO_hjb78MLlXnEnocjksj/view?usp=sharing)<br>
-> [Schedulo Desktop Version Download (Mac)](https://drive.google.com/file/d/1lBfHqaiGk3AAALeTpfHLDuvwpp9DvKaM/view?usp=sharing)<br>
+> Schedulo Desktop Version (Windows) [Download](https://drive.google.com/file/d/1hJa5XNNHKJsrO_hjb78MLlXnEnocjksj/view?usp=sharing)<br>
+> Schedulo Desktop Version (MacOS) [Download](https://drive.google.com/file/d/1lBfHqaiGk3AAALeTpfHLDuvwpp9DvKaM/view?usp=sharing)<br>
 - Windows 설치 시 Smart Screen → 추가 정보 → 실행<br>
 - MacOS 설치 시
 ```bash
